@@ -22,3 +22,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.point{
+  font-family: 'Press Start 2P', cursive;
+}
+.gameOverContainer{
+  font-family: 'Press Start 2P', cursive;
+}
